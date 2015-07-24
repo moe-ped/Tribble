@@ -39,6 +39,13 @@ Thumbs.db
 *.exe
 
 # =============== #
+# Visual Studio Plugin #
+# =============== #
+UnityVS/
+UnityVS.meta
+obj/
+
+# =============== #
 # Version Control #
 # =============== #
 *.orig*
